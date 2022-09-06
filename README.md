@@ -1,2 +1,2 @@
-# cndAccelerate
+# cdnAccelerate
 cdn加速
